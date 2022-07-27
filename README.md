@@ -3,7 +3,7 @@ Dokumentáció
 
 Használati utmutató:
 1. Szükséges kellékek: Java, JDK, Maven, MySql adatbázis.
-2. A projekt forrás fájlai a MAIN ágra lettek felrakva.
+2. A projekt forrás fájlai a MASTER ágra lettek felrakva.
 
 Specifikációk
 1. Felhasználó regisztrálása
