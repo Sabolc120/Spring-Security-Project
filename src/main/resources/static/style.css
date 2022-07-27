@@ -1,0 +1,65 @@
+body{
+    width:80%;
+    margin: auto;
+}
+h1{
+    padding-top:5%;
+    padding-bottom:2%;
+    font-size:1rem;
+    text-align:left;
+}
+.container-fluid{
+    padding-right:8%;
+}
+#firstImpression{
+    background-color: #ECB390;
+}
+.my-brand-style{
+    font-family: 'Lato', sans-serif;
+    font-size:2rem;
+    font-style:italic;
+}
+.my-item{
+    font-size:1rem;
+}
+.nav-link{
+    font-size:1.2rem;
+    font-family: 'Roboto Mono', monospace;
+    margin-left:10px;
+    margin-right:10px;
+    color:#630606;
+}
+.container-fluid a:hover{
+    text-decoration:underline;
+    text-decoration-color:#FCF8E8;
+    text-decoration-thickness: 4px;
+}
+.container p{
+    font-family:'Lato', sans-serif;
+    margin-left:20px;
+    font-weight:bold;
+}
+#blogs li{
+    color:#FCF8E8;
+    background-color:#ECB390;
+    font-size:1.5rem;
+    line-height:1.5;
+    font-family: 'Lato', sans-serif;
+    padding:3%;
+}
+h2{
+    font-size:2rem;
+    font-family: 'Roboto Mono', monospace;
+    color: #94B49F;
+    padding-bottom:2%;
+}
+.time{
+    text-align:left;
+    font-size:1rem;
+}
+.focim{
+    text-align:center;
+    font-size:2.5rem;
+    font-family: 'Roboto Mono', monospace;
+    color: #ECB390;
+}
